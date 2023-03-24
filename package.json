@@ -1,0 +1,12 @@
+{
+  "name": "poly-forward-ref",
+  "version": "0.0.1",
+  "description": "react forward ref function for polymorphic components",
+  "main": "index.ts",
+  "repository": "https://github.com/alexpozdnyakof/poly-forward-ref.git",
+  "author": "alexpozdnyakof <alexpozdnyakof@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
